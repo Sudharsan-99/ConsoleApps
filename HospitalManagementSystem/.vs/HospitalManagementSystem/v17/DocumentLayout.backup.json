@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\Patients.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Patients.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\Patients.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Patients.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABqPRsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:36:13.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
