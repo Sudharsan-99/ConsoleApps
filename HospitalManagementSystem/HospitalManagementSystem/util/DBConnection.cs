@@ -9,11 +9,12 @@ namespace HospitalManagementSystem.util
 {
     public class DBConnection
     {
-        private static SqlConnection connection;
+        public static SqlConnection connection;
 
-        public SqlConnection getConnection()
+        public static SqlConnection getConnection()
         {
-
+            connection = new SqlConnection("data source=DESKTOP-R2484O8\\SQLEXPRESS;intial catalog = HospitalManagementSystem;integrated security = true;");
+            connection.Open();
             return connection;
         }
     }

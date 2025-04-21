@@ -14,7 +14,7 @@ namespace HospitalManagementSystem.entity
         private DateTime _appointmentDate;
         private string _description;
 
-        public int AppointmentID
+        public int  AppointmentID
         {
             get { return _appointmentID; }
             set { _appointmentID = value; }
@@ -66,6 +66,15 @@ namespace HospitalManagementSystem.entity
 
         public Appointments(int patientID, int doctorID, DateTime appointmentDate, string description)
         {
+            PatientID = patientID;
+            DoctorID = doctorID;
+            AppointmentDate = appointmentDate;
+            Description = description;
+        }
+
+        public Appointments(int Appointmentid ,int patientID, int doctorID, DateTime appointmentDate, string description)
+        {
+            AppointmentID= Appointmentid;
             PatientID = patientID;
             DoctorID = doctorID;
             AppointmentDate = appointmentDate;

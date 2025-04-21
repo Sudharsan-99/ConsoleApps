@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\main\\hospitalmanagementapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\main\\hospitalmanagementapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\dao\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dao\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\dao\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dao\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\entity\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\entity\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\test\\onedrive\\desktop\\csharp\\consoleapps\\hospitalmanagementsystem\\hospitalmanagementsystem\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75082238-C509-46FB-A930-5EE21CC36720}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Patients.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\Patients.cs",
-              "RelativeDocumentMoniker": "HospitalManagementSystem\\Patients.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\Patients.cs",
-              "RelativeToolTip": "HospitalManagementSystem\\Patients.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAABqPRsAAAAAAAAAAAAAAA==",
+              "Title": "HospitalManagementApp.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\Main\\HospitalManagementApp.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Main\\HospitalManagementApp.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\Main\\HospitalManagementApp.cs*",
+              "RelativeToolTip": "HospitalManagementSystem\\Main\\HospitalManagementApp.cs*",
+              "ViewState": "AgIAAJoAAAAgmJmZmZklwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:36:13.583Z",
+              "WhenOpened": "2025-04-21T09:45:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Appointments.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\entity\\Appointments.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Appointments.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\entity\\Appointments.cs",
+              "ViewState": "AgIAAEEAAAAAyMzMzMwMwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:59:35.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\util\\DBConnection.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\util\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:57:54.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHospitalService.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "ViewState": "AgIAAAYAAAAAMTMzMzMbwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:57:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\HospitalServiceImpl.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\dao\\HospitalServiceImpl.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Csharp\\ConsoleApps\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\HospitalServiceImpl.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\dao\\HospitalServiceImpl.cs",
+              "ViewState": "AgIAAAYAAADg//////8jwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:57:07.058Z",
               "EditorCaption": ""
             }
           ]
